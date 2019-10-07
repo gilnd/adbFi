@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- *** DEFAULT DIMEN *** -->
+    <dimen name="dim_default_dp">16dp</dimen>
+    <dimen name="dim_default_sp">16sp</dimen>
+    <!-- *** PADDING *** -->
+    <dimen name="dim_default_padding">@dimen/dim_default_dp</dimen>
+    <dimen name="dim_up_default_padding">20dp</dimen>
+    <dimen name="dim_down_default_padding">12dp</dimen>
+    <dimen name="dim_big_padding">24dp</dimen>
+    <dimen name="dim_small_padding">8dp</dimen>
+    <dimen name="dim_up_big_padding">22dp</dimen>
+    <dimen name="dim_down_big_padding">18dp</dimen>
+    <dimen name="dim_up_small_padding">10dp</dimen>
+    <dimen name="dim_down_small_padding">8dp</dimen>
+    <dimen name="dim_small_small_padding">4dp</dimen>
+    <!-- *** MARGIN *** -->
+    <dimen name="dim_default_margin">@dimen/dim_default_dp</dimen>
+    <dimen name="dim_up_default_margin">20dp</dimen>
+    <dimen name="dim_down_default_margin">12dp</dimen>
+    <dimen name="dim_big_margin">24dp</dimen>
+    <dimen name="dim_small_margin">8dp</dimen>
+    <dimen name="dim_up_big_margin">22dp</dimen>
+    <dimen name="dim_down_big_margin">18dp</dimen>
+    <dimen name="dim_up_small_margin">10dp</dimen>
+    <dimen name="dim_down_small_margin">8dp</dimen>
+    <dimen name="dim_small_small_margin">4dp</dimen>
+    <!-- *** TEXT *** -->
+    <dimen name="dim_default_text">@dimen/dim_default_sp</dimen>
+    <dimen name="dim_up_default_text">20sp</dimen>
+    <dimen name="dim_down_default_text">12sp</dimen>
+    <dimen name="dim_title_text">38sp</dimen>
+    <dimen name="dim_up_title_text">48sp</dimen>
+    <dimen name="dim_down_title_text">32sp</dimen>
+    <dimen name="dim_big_text">24sp</dimen>
+    <dimen name="dim_small_text">8sp</dimen>
+    <dimen name="dim_up_big_text">22sp</dimen>
+    <dimen name="dim_down_big_text">18sp</dimen>
+    <dimen name="dim_up_small_text">10sp</dimen>
+    <dimen name="dim_down_small_text">8sp</dimen>
+    <dimen name="dim_small_small_text">4sp</dimen>
+    <!-- *** ICONS *** -->
+    <dimen name="dim_default_icon">24dp</dimen>
+    <dimen name="dim_up_default_icon">20dp</dimen>
+    <dimen name="dim_down_default_icon">16dp</dimen>
+    <dimen name="dim_big_icon">48dp</dimen>
+    <dimen name="dim_title_icon">64dp</dimen>
+    <!-- *** ITEM'S/VIEWS *** -->
+    <dimen name="dim_scroll_bar">4dip</dimen>
+    <dimen name="dim_card_elevation">8dp</dimen>
+    <dimen name="dim_btn_default_radius">16dp</dimen>
+    <dimen name="dim_btn_big_radius">32dp</dimen>
+    <dimen name="dim_btn_small_radius">8dp</dimen>
+    <dimen name="settings_card_corner_radius">0dp</dimen>
+
+</resources>

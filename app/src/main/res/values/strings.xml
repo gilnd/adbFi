@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AdbFi</string>
+    <string name="notification_text">AdbFi is running...</string>
+    <string name="turn_off">Turn off</string>
+
+    <string name="qs_adb_tile_label">AdbFi</string>
+    <string name="turn_on_something">You should have turned on Wifi or Hotspot.</string>
+    <string name="no_connection">No Connection </string>
+    <string name="disabled">Disabled</string>
+    <string name="active">Active</string>
+    <string name="connected">Connected</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="listening_at">Listening at</string>
+    <!--NO ROOT-->
+    <string formatted="false" name="no_root_how_to_connect">
+        1.Connect your phone to computer via USB.\n
+        2.Run "adb tcpip %s" on your pc.\n
+        3.Run "adb connect %s" on your pc.\n
+        4.Remove USB.
+    </string>
+
+    <string name="how_to_connect">How to connect</string>
+    <string name="how_connect_with_terminal">Open the terminal, then type</string>
+
+    <!--TIPS-->
+    <string name="tips"><b>Tips: </b></string>
+    <string name="tips_windows">WINDOWS USER, if you haven\'t adb PATH, open the terminal on path ../SDK/platform-tools/</string>
+    <string name="tips_tile">To open the notification shade, swipe down from the top of the phone. Expand the widget on the right side and then click <b>Edit</b>.</string>
+
+    <string name="error_message">Something went worng!</string>
+
+    <!--TOOLBAR-->
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+
+    <!--ABOUT-->
+    <string name="app_description">Adb over Wi-Fi.</string>
+        <string name="about_author_gilbert_description">
+        Thanks for using adbFi, visit my github for more projects! :)
+    </string>
+    <string name="gilbert_role">Developer</string>
+    <string name="about_special_thanks">Special thanks</string>
+    <string name="about_special_thanks_donald">Special thanks to <a
+        href="https://github.com/dnldsht">Donald Shtjefni</a>.
+    </string>
+    <string name="send_via">send via&#8230;</string>
+    <string name="send_email">SEND EMAIL</string>
+
+    <string name="send_mail_error">There are no email clients installed.</string>
+
+    <!--DIALOGS-->
+    <string name="dialog_port_text">Type a net port, for example 5555 (default).\nCurrent Port: </string>
+
+    <!--SETTINGS-->
+    <string name="general">General</string>
+    <string name="notification">Notification</string>
+    <string name="notification_sub">Show notification on AdbFi Start.</string>
+    <string name="port">Port</string>
+    <string name="port_sub">Change the net port used to open the connection.</string>
+    <string name="show_tips">Show Tips</string>
+    <string name="show_tips_sub">Show tips card on home activity.</string>
+
+
+
+</resources>
