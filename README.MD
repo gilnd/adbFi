@@ -1,6 +1,6 @@
 # adbFI
 
-adbFi is an android app that let's u debug over wifi. 
+adbFi is an android app that let's you debug over wifi. 
 With and Without root.
 
 ### Code 
